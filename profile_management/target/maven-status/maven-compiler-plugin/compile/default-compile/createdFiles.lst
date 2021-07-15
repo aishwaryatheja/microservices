@@ -1,0 +1,6 @@
+com\aishwarya\profilemanagement\controller\EmployeeController.class
+com\aishwarya\profilemanagement\ProfilemanagementApplication.class
+com\aishwarya\profilemanagement\service\EmployeeProfileServiceImpl.class
+com\aishwarya\profilemanagement\dao\ProfileRepository.class
+com\aishwarya\profilemanagement\service\EmployeeProfileService.class
+com\aishwarya\profilemanagement\domain\EmployeeProfile.class
