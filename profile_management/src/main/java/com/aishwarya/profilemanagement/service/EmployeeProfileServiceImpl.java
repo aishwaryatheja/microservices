@@ -12,7 +12,7 @@ import java.util.List;
 
 public class EmployeeProfileServiceImpl implements EmployeeProfileService {
 
-	@Autowired(required = false)
+	@Autowired(required = true)
 	ProfileRepository repository;
     List < EmployeeProfile > employeeProfileList = new ArrayList < > ();
 
